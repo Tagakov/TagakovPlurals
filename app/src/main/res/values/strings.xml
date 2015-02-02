@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TagakovPlurals</string>
+    <string name="welcome_string">Пожалуйста введите любое целое число от минус октиллиона до плюс октиллиона.</string>
+
+</resources>
